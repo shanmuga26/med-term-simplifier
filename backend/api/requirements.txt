@@ -1,0 +1,19 @@
+# requirements.txt for the Vercel backend (Glossary-Only).
+
+# --- Core Web Framework & Server ---
+fastapi
+uvicorn
+
+# --- NLP Library for basic entity/term recognition ---
+spacy
+
+# --- Other Dependencies (Vercel needs these to build) ---
+pydantic
+email-validator
+httpx
+pyyaml
+python-multipart
+orjson
+ujson
+starlette
+anyio

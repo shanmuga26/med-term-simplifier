@@ -1,0 +1,19 @@
+/* medical-simplifier/frontend/src/App.css */
+
+/* No custom CSS specific for App.jsx needed here if MUI handles everything */
+/* This file is primarily for global styles or overrides if necessary */
+
+/* Basic reset/body styles */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
